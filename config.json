@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "data-db-connection": "mongodb+srv://root:root@bstproject.98lqw.mongodb.net/bd-registro?retryWrites=true&w=majority&appName=BstProject",
+  "name-db": "bd-registro"
+}
